@@ -7,6 +7,7 @@ public class Calculators3 {
 
         // Fields to fill
 
+        System.out.println("The present value of ordinary annuity calculator");
         System.out.print("Enter you monthly amount of payment: $ ");
         double payment = scanner.nextDouble();
 

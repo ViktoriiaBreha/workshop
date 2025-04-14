@@ -7,6 +7,7 @@ public class Calculators2 {
 
         //Enter all information
 
+        System.out.println("The future value of one-time deposit calculator");
         System.out.print("Enter your deposit amount: $ ");
         float deposit = scanner.nextFloat();
 
