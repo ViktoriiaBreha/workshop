@@ -7,9 +7,9 @@ public class FinancialCalculators {
 
         System.out.println("Hi!Welcome to the Financial Calculators!");
         System.out.println("Choose what calculator do you need today:");
-        System.out.println("1. A mortgage calculator ");
-        System.out.println("2. The future value of one-time deposit calculator ");
-        System.out.println("3. the present value of ordinary annuity calculator ");
+        System.out.println("1. A mortgage calculator. ");
+        System.out.println("2. The future value of one-time deposit calculator. ");
+        System.out.println("3. The present value of ordinary annuity calculator. ");
         System.out.print("You choice number: ");
         int choice = scanner.nextInt();
 
